@@ -4,11 +4,7 @@
       font-size: 150%;
     }
     
-.myClass {
-      background-color: pink;
-      color: blue
-    }
-.anExampleClass {
+.myClass  {
       font-size: 300%;
       background-color: lightgreen;
       font-family: courier;
